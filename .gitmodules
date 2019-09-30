@@ -1,0 +1,15 @@
+[submodule "eigen"]
+	path = eigen
+	url = https://github.com/libigl/eigen.git
+[submodule "std_msgs"]
+	path = std_msgs
+	url = https://github.com/ros/std_msgs.git
+[submodule "genpy"]
+	path = genpy
+	url = https://github.com/ros/genpy.git
+[submodule "catkin_tutorials"]
+	path = catkin_tutorials
+	url = https://github.com/ros/catkin_tutorials.git
+[submodule "ros_tutorials"]
+	path = ros_tutorials
+	url = https://github.com/ros/ros_tutorials.git
